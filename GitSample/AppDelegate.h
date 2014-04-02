@@ -12,4 +12,7 @@
 
 @property (strong, nonatomic) UIWindow *window;
 
+// henkou
+// 1212
+
 @end
