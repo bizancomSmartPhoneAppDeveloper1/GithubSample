@@ -12,6 +12,9 @@
 
 @interface MasterViewController () {
     NSMutableArray *_objects;
+    
+    // hennkou
+    
 }
 @end
 
